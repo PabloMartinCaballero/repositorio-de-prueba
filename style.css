@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.background-nav{
+    background-color: darkslategrey;
+}
+
+.carousel-dimention{
+    width: 70%;
+    margin: 0 auto;
+}
